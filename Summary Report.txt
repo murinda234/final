@@ -1,0 +1,21 @@
+Summary Report
+
+This report describes the changes made to the initial plan, what turned out to be easier or harder than expected, and what was learned during the project.
+Changes from Initial Plan
+
+The initial plan for the project was to create a console app that could create and save SVG files. However, during development, it became clear that users would benefit from a graphical user interface (GUI) to make the app more user-friendly. As a result, the project scope was expanded to include a GUI and additional features such as drawing tools, shape library, and the ability to load and export files in different formats.
+Easier or Harder than Expected
+
+Creating the basic functionality of the app, such as creating and saving SVG files, was relatively easy. However, implementing the GUI and additional features proved to be more challenging. It required additional time and effort to research and implement the necessary libraries and frameworks to create a functional GUI and to add drawing tools and shape library. In addition, testing and debugging the app proved to be more time-consuming than expected.
+Features Changed or Dropped
+
+
+Lessons Learned
+
+The project provided valuable insights and lessons learned for future development projects. Some of the key takeaways include:
+
+    A clear and well-defined scope is essential for successful project management.
+    Proper planning and research can help to avoid delays and unexpected difficulties.
+    Continuous testing and debugging throughout the development process are crucial to ensure a high-quality end product.
+
+Overall, despite some challenges and changes to the initial plan was close to be perfection.
